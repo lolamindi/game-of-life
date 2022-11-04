@@ -68,3 +68,16 @@ or
 ```bash
 yarn start
 ```
+
+### Watch-mode
+To run the tests in watch mode, you can run:
+
+```bash
+npm run test:watch
+```
+
+or
+
+```bash
+yarn run test:watch
+```
